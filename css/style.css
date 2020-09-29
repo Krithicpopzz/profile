@@ -44,7 +44,7 @@ a:hover{
 .topContainer{
     background-color: rgba(0, 0, 255, 0.281);
     position: relative;
-    padding-top: 100px;
+    padding-top: 6.25%;
 }
 .middle-container{
     padding: 100px 0;
